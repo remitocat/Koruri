@@ -1,3 +1,5 @@
+このリポジトリのフォントはすべてWebフォント用にカスタマイズされたものです。woff形式とeot形式のフォントも同封されています。 (remitocat)
+
 # Koruri
 
 M+ OUTLINE FONTS と Open Sans を合成した日本語 TrueType フォント
@@ -17,8 +19,6 @@ Koruri-20210720 で使用した生成スクリプトは [Koruri/Scripts@32347e6]
 | **Extrabold** | Heavy | ExtraBold | Black |
 
 Koruri-20210720 では、 **M+ OUTLINE FONTS TESTFLIGHT 063a** (OSDN版, 2019.04.23) と **Open Sans 1.10** を使用しています。
-
-[remitocat/Koruri](https://github.com/remitocat/Koruri) では、TTF形式のフォントに加えて、WOFF形式のフォント (Webフォント用) を追加しています。
 
 ## ライセンス
 
