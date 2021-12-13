@@ -1,27 +1,29 @@
 @font-face {
   font-family: "Koruri";
-  src: url("/koruri/koruri-regular.woff") format("woff"),
-       url("/koruri/koruri-regular.eot") format("embedded-opentype"),
-       url("/koruri/koruri-regular.ttf") format("truetype");
+  src: url("koruri-regular.woff") format("woff"),
+       url("koruri-regular.eot") format("embedded-opentype"),
+       url("koruri-regular.ttf") format("truetype");
+  font-style: normal;
   font-weight: 400;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "Koruri";
-  src: url("/koruri/koruri-semibold.woff") format("woff"),
-       url("/koruri/koruri-semibold.eot") format("embedded-opentype"),
-       url("/koruri/koruri-semibold.ttf") format("truetype");
+  src: url("koruri-semibold.woff") format("woff"),
+       url("koruri-semibold.eot") format("embedded-opentype"),
+       url("koruri-semibold.ttf") format("truetype");
+  font-style: normal;
   font-weight: 500;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "Koruri";
-  src: url("/koruri/koruri-bold.woff") format("woff"),
-       url("/koruri/koruri-bold.eot") format("embedded-opentype"),
-       url("/koruri/koruri-bold.ttf") format("truetype");
+  src: url("koruri-bold.woff") format("woff"),
+       url("koruri-bold.eot") format("embedded-opentype"),
+       url("koruri-bold.ttf") format("truetype");
+  font-style: normal;
   font-weight: 700;
-}
-
-body {
-  font-family: "Koruri", sans-serif !important;
+  font-display: swap;
 }
