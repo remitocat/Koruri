@@ -1,7 +1,8 @@
 @font-face {
   font-family: "Koruri";
-  src: url("./fonts/koruri-regular.woff") format("woff"),
-       url("./fonts/koruri-regular.eot") format("embedded-opentype"),
+  src: url("./fonts/koruri-regular.eot");
+  src: url("./fonts/koruri-regular.eot?#iefix") format("embedded-opentype"),
+       url("./fonts/koruri-regular.woff") format("woff"),
        url("./fonts/koruri-regular.ttf") format("truetype");
   font-style: normal;
   font-weight: 400;
@@ -9,8 +10,9 @@
 
 @font-face {
   font-family: "Koruri";
-  src: url("./fonts/koruri-semibold.woff") format("woff"),
-       url("./fonts/koruri-semibold.eot") format("embedded-opentype"),
+  src: url("./fonts/koruri-semibold.eot");
+  src: url("./fonts/koruri-semibold.eot?#iefix") format("embedded-opentype"),
+       url("./fonts/koruri-semibold.woff") format("woff"),
        url("./fonts/koruri-semibold.ttf") format("truetype");
   font-style: normal;
   font-weight: 500;
@@ -18,8 +20,9 @@
 
 @font-face {
   font-family: "Koruri";
-  src: url("./fonts/koruri-bold.woff") format("woff"),
-       url("./fonts/koruri-bold.eot") format("embedded-opentype"),
+  src: url("./fonts/koruri-bold.eot");
+  src: url("./fonts/koruri-bold.eot?#iefix") format("embedded-opentype"),
+       url("./fonts/koruri-bold.woff") format("woff"),
        url("./fonts/koruri-bold.ttf") format("truetype");
   font-style: normal;
   font-weight: 700;
