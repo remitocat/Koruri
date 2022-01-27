@@ -1,7 +1,7 @@
-# sakura-tel/koruri
+# 🌸 Sakura Koruri
 
 ## What's this?
-[Koruri-20210720](https://github.com/Koruri/Koruri/tree/20210720) のファイルサイズを小さくして、Webフォントとして使えるようにカスタマイズしたものです。WOFF形式・EOT形式にも対応しています。
+[Koruri-20210720](https://github.com/Koruri/Koruri/tree/20210720) の Web フォント版 (非公式) です。WOFF 形式や EOT 形式にも対応しています。
 
 フォントの太さは Regular, SemiBold, Bold の3種類です。
 
