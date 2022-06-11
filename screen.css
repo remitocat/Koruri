@@ -1,0 +1,33 @@
+html, body, p, h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 100%;
+  font-family: "Koruri", sans-serif;
+}
+
+main {
+  min-width: 300px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem;
+  overflow-wrap: normal;
+}
+
+code {
+  font-family: "Liberation Mono", monospace;
+}
+
+h1, h2 {
+	margin-bottom: 0.5rem;
+}
+
+p {
+	margin-bottom: 0.75rem;
+}
