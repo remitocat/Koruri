@@ -9,7 +9,7 @@
 
 HTML
 ```html
-<link src="stylesheet" href="https://koruri.chillout.chat/koruri.css">
+<link src="stylesheet" href="https://koruri.chillout.chat/koruri.css" />
 ```
 
 CSS
